@@ -1,0 +1,11 @@
+Restaurant_Name,Rating,Cost,Location,Cuisine,Votes,Online_order,Table_booking
+Burger King,4.2,350,Delhi,Fast Food,2500,Yes,No
+Pizza Hut,4.0,500,Mumbai,Italian,2100,Yes,Yes
+Biryani Blues,4.3,400,Bangalore,North Indian,1800,Yes,No
+McDonald's,3.8,300,Pune,Fast Food,1500,Yes,No
+KFC,4.1,450,Hyderabad,Fast Food,2200,Yes,Yes
+Domino's,3.9,400,Kolkata,Italian,1700,Yes,No
+Haldiram's,4.5,350,Delhi,North Indian,2800,Yes,No
+Subway,4.0,250,Chennai,Healthy Food,1200,Yes,No
+Barbeque Nation,4.6,800,Mumbai,BBQ,3200,Yes,Yes
+The Great Kabab Factory,4.7,900,Delhi,Mughlai,1500,No,Yes
